@@ -1,0 +1,19 @@
+{
+  "name": "webpack-4",
+  "version": "1.0.0",
+  "description": "learning webpack4",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "webpack",
+    "javascript"
+  ],
+  "author": "@davidgonzalezfx",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "4.32.2",
+    "webpack-cli": "3.3.2"
+  }
+}
