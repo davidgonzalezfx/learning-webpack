@@ -13,7 +13,8 @@
     "build:dev": "webpack-dev-server --config ./dev-server/webpack.config.js",
     "build:hot": "webpack-dev-server --config ./hot-module/webpack.config.js",
     "build:babel": "webpack-dev-server --config ./babel/webpack.config.js",
-    "build:react": "webpack-dev-server --config ./react/webpack.config.js"
+    "build:react": "webpack-dev-server --config ./react/webpack.config.js",
+    "build:react-hooks": "webpack-dev-server --config ./react-hooks/webpack.config.js"
   },
   "keywords": [
     "webpack",
