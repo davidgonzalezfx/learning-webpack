@@ -10,7 +10,8 @@
     "build:multi": "webpack --config ./multi-entry-points/webpack.config.js",
     "build:css": "webpack --config ./css-style-loader/webpack.config.js",
     "build:plugin": "webpack --config ./plugins/webpack.config.js",
-    "build:dev": "webpack-dev-server --config ./dev-server/webpack.config.js"
+    "build:dev": "webpack-dev-server --config ./dev-server/webpack.config.js",
+    "build:hot": "webpack-dev-server --config ./hot-module/webpack.config.js"
   },
   "keywords": [
     "webpack",
