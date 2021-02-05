@@ -1,3 +1,3 @@
 import '../css/index.css'
 
-console.log('Hola mundo desde home')
+document.body.innerHTML = 'Hola mundo desde webpack'
