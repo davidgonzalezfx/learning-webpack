@@ -30,5 +30,19 @@
 
 </details>
 
+<details open>
+  <summary>Loaders y plugins</summary>
+  
+  * Babel loader para javascript
+  * HTML en webpack
+  * Loaders para CSS y preprocesadores de CSS
+  * Copia de archivos con webpack
+  * Loader de imagenes
+  * Loader de fuentes
+  * Optimización: hashes, comprensión y minificación de archivos
+  * Webpack alias
+
+</details>
+
 
 [Ver la versión del curso de webpack 4](https://github.com/davidgonzalezfx/learning-webpack/tree/452ddf51597c216b6f2e02e2287a3959f5f9cc7d)
